@@ -1,0 +1,4 @@
+botocore > 1.13
+packaging
+python-dateutil
+pydot
